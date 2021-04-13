@@ -1,0 +1,12 @@
+.single-todo {
+  padding: 2px;
+  background-color: aquamarine;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+.single-todo:focus {
+  padding: 2px;
+  background-color: lightcoral;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
